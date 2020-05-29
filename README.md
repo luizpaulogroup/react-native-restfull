@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-nubank/blob/master/src/Gif/react.png" />
+    <img alt="React logo" width="50px" height="50px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/expo.png" />
     <br>
     React Native RESTFULL
 </h1>
