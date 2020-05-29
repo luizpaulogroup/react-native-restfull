@@ -22,8 +22,8 @@
 
 This project was developed with the technologies:
 
--  [Expo](https://code.visualstudio.com/)
--  [Axios](https://code.visualstudio.com/)
+-  [Expo](https://expo.io/)
+-  [axios](https://github.com/axios/axios)
 -  [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :information_source: How To Use
