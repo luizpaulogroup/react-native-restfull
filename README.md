@@ -11,10 +11,19 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<h1 align="center">
+    <img width="200px" src="https://github.com/luizpaulogroup/react-native-restfull/blob/master/src/images/screen1.png" style="max-width:100%;">
+    <img width="200px" src="https://github.com/luizpaulogroup/react-native-restfull/blob/master/src/images/screen2.png" style="max-width:100%;">
+    <img width="200px" src="https://github.com/luizpaulogroup/react-native-restfull/blob/master/src/images/screen3.png" style="max-width:100%;">
+    <img width="200px" src="https://github.com/luizpaulogroup/react-native-restfull/blob/master/src/images/screen4.png" style="max-width:100%;">
+</h1>
+
 ## :rocket: Technologies
 
 This project was developed with the technologies:
 
+-  [Expo](https://code.visualstudio.com/)
+-  [Axios](https://code.visualstudio.com/)
 -  [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :information_source: How To Use
